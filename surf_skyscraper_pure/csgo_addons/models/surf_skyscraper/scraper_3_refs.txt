@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\surf_skyscraper\center.vmt"
+	"file"	"materials\models\surf_skyscraper\corner.vmt"
+}

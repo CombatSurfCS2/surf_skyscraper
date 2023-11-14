@@ -1,0 +1,19 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "sky.vfx"
+
+	//---- Texture ----
+	g_flBrightnessExposureBias "-0.800"
+	g_flRenderOnlyExposureBias "0.000"
+	SkyTexture "materials/skybox/kloofendal_misty_morning_puresky_1k.exr"
+
+
+	VariableState
+	{
+		"Texture"
+		{
+		}
+	}
+}
