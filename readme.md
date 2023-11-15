@@ -1,3 +1,3 @@
 |                                           surf_skyscraper                                           |                                        surf_skyscraper_pure                                         |
 | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-| ![](https://github.com/CombatSurfCS2/.github/assets/102309602/6be9638d-ca57-42d3-8a7d-6bc8db503c3f) | ![](https://github.com/CombatSurfCS2/.github/assets/102309602/6be9638d-ca57-42d3-8a7d-6bc8db503c3f) |
+| ![](https://github.com/CombatSurfCS2/surf_skyscraper/assets/102309602/3dcc970e-297e-447c-885b-bf84de4ef474) | ![](https://github.com/CombatSurfCS2/.github/assets/102309602/6be9638d-ca57-42d3-8a7d-6bc8db503c3f) |
