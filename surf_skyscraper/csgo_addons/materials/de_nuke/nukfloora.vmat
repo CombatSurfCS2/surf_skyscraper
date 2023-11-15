@@ -1,0 +1,29 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/de_nuke/nukfloora_color.tga"
+	"TextureLayer1Normal"		"materials/de_nuke/nukfloora_normal.tga"
+	"g_flCubeMapScalar"		"0.200000"
+	"TextureLayer1Roughness"		"materials/de_nuke/nukfloora_normal_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"concrete"
+	}
+	"legacy_import"
+	{
+		"LightmappedGeneric"
+		{
+			"$basetexture"		"de_nuke\nukfloora"
+			"$envmap"		"env_cubemap"
+			"$bumpmap"		"de_nuke\nukfloora_normal"
+			"$normalmapalphaenvmapmask"		"1"
+			"$surfaceprop"		"concrete"
+			"$envmaptint"		"[.2 .2 .2]"
+		}
+	}
+}
